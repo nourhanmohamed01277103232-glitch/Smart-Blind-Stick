@@ -1,0 +1,19 @@
+﻿{
+    "host":  "127.0.0.1",
+    "port":  5005,
+    "fall_seconds":  30,
+    "college":  {
+                    "lat":  30.0562001,
+                    "lon":  31.3177229
+                },
+    "telegram":  {
+                     "token":  "",
+                     "chat_ids":  [
+
+                                  ]
+                 },
+    "voice":  {
+                  "pc":  true,
+                  "phone":  false
+              }
+}
